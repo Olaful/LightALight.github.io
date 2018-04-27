@@ -1,1 +1,0 @@
-# LightALight.github.io
