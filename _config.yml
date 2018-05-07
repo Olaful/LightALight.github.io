@@ -92,3 +92,6 @@ search:
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 plugins: hexo-generate-feed
+
+live2d:
+  enable: false
